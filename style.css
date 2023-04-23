@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h1 {
+    text-align: center;
+    margin-top: 40px;
+    font-size: 225%;
+    font-weight: bold;
+}
+
+#container {
+    margin: 0 auto;
+    width: 80%;
+    text-align: center;
+    background-color: rgb(200, 229, 255);
+    padding: 20px;
+    margin: 15px auto 0px auto;
+    border-radius: 10px;
+}
+
+.input {
+    display: inline-block;
+}
+
+.in {
+    padding: 5px 10px;
+    margin: 10px;
+    border-radius: 5px;
+    font-size: 30px;
+    font-weight: bold;
+    text-align: center;
+    width: 200px;
+}
+
+label {
+    font-size: 24px;
+}
